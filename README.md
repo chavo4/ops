@@ -24,8 +24,6 @@ source ~/.bash_profile
 
 **Usage example:**
 
-This will create EC2 instance from AWS AMI  with "ubuntu-xenial-14.04" and "nginx".
-
 1.  Fork the copy of chavo4/ops - clone it
 - Or
 2.  Download a ZIP with following link:
