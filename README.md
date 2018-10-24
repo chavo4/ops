@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/chavo4/ops.svg?branch=master)](https://travis-ci.org/chavo4/ops)
+[![Build Status](https://travis-ci.org/chavo4/ops.svg?branch=master)](https://travis-ci.org/chavo4/ops).
 
 # Prerequisite:
 Make a [GitHub token](https://github.com/settings/tokens) and export it as follow:
